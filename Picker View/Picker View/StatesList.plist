@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Alabama</key>
+    <array>
+        <string>Montgomery</string>
+        <string>Birmingham</string>
+        <string>December 14, 1819</string>
+        <string>4,833,722</string>
+        <string>52,420 (135,767)</string>
+        <string>50,645 (131,170)</string>
+        <string>1,775 (4,597)</string>
+        <string>7</string>
+    </array>
+	<key>Alaska</key>
+	<array>
+		<string>Juneau</string>
+        <string>Anchorage</string>
+        <string>January 3, 1959</string>
+        <string>735,132</string>
+        <string>665,384 (1,723,337)</string>
+        <string>570,641 (1,477,950)</string>
+        <string>94,743 (245,383)</string>
+        <string>1</string>
+	</array>
+    <key>Arizona</key>
+    <array>
+        <string>Phoenix</string>
+        <string>Phoenix</string>
+        <string>February 14, 1912</string>
+        <string>6,626,624</string>
+        <string>113,990 (295,233)</string>
+        <string>113,594 (294,207)</string>
+        <string>396 (1,026)</string>
+        <string>9</string>
+    </array>
+    <key>Arkansas</key>
+    <array>
+        <string>Little Rock</string>
+        <string>Little Rock</string>
+        <string>June 15, 1836</string>
+        <string>2,959,373</string>
+        <string>53,179 (137,733)</string>
+        <string>52,035 (134,770)</string>
+        <string>1,143 (2,960)</string>
+        <string>4</string>
+    </array>
+    <key>California</key>
+    <array>
+        <string>Sacramento</string>
+        <string>Los Angeles</string>
+        <string>September 9, 1850</string>
+        <string>38,332,521</string>
+        <string>163,695 (423,968)</string>
+        <string>155,779 (403,466)</string>
+        <string>7,916 (20,502)</string>
+        <string>53</string>
+    </array>
+    <key>Colorado</key>
+    <array>
+        <string>Denver</string>
+        <string>Denver</string>
+        <string>August 1, 1876</string>
+        <string>5,268,367</string>
+        <string>104,094 (269,602)</string>
+        <string>103,642 (268,432)</string>
+        <string>452 (1,171)</string>
+        <string>7</string>
+    </array>
+    <key>Connecticut</key>
+    <array>
+        <string>Hartford</string>
+        <string>Bridgeport</string>
+        <string>January 9, 1788</string>
+        <string>3,596,080</string>
+        <string>5,543 (14,356)</string>
+        <string>4,842 (12,541)</string>
+        <string>701 (1,816)</string>
+        <string>5</string>
+    </array>
+    <key>Delaware</key>
+    <array>
+        <string>Dover</string>
+        <string>Wilmington</string>
+        <string>December 7, 1787</string>
+        <string>925,749</string>
+        <string>2,489 (6,446)</string>
+        <string>1,949 (5,048)</string>
+        <string>540 (1,399)</string>
+        <string>1</string>
+    </array>
+    <key>Florida</key>
+    <array>
+        <string>Tallahassee</string>
+        <string>Jacksonville</string>
+        <string>March 3, 1845</string>
+        <string>19,552,860</string>
+        <string>65,758 (170,312)</string>
+        <string>53,625 (138,888)</string>
+        <string>12,133 (31,424)</string>
+        <string>27</string>
+    </array>
+    <key>Georgia</key>
+    <array>
+        <string>Atlanta</string>
+        <string>Atlanta</string>
+        <string>January 2, 1788</string>
+        <string>9,992,167</string>
+        <string>59,425 (153,910)</string>
+        <string>57,513 (148,958)</string>
+        <string>1,912 (4,950)</string>
+        <string>14</string>
+    </array>
+    <key>Hawaii</key>
+    <array>
+        <string>Honolulu</string>
+        <string>Honolulu</string>
+        <string>August 21, 1959</string>
+        <string>1,404,054</string>
+        <string>10,932 (28,314)</string>
+        <string>6,423 (16,635)</string>
+        <string>4,509 (11,678)</string>
+        <string>2</string>
+    </array>
+    <key>Idaho</key>
+    <array>
+        <string>Boise</string>
+        <string>Boise</string>
+        <string>July 3, 1890</string>
+        <string>1,612,136</string>
+        <string>83,569 (216,443)</string>
+        <string>82,643 (214,044)</string>
+        <string>926 (2,398)</string>
+        <string>2</string>
+    </array>
+    <key>Illinois</key>
+    <array>
+        <string>Springfield</string>
+        <string>Chicago</string>
+        <string>December 3, 1818</string>
+        <string>12,882,135</string>
+        <string>57,914 (149,997)</string>
+        <string>55,519 (143,794)</string>
+        <string>2,395 (6,203)</string>
+        <string>18</string>
+    </array>
+    <key>Indiana</key>
+    <array>
+        <string>Indianapolis</string>
+        <string>Indianapolis</string>
+        <string>December 11, 1816</string>
+        <string>6,570,902</string>
+        <string>36,420 (94,327)</string>
+        <string>35,826 (92,789)</string>
+        <string>593 (1,536)</string>
+        <string>9</string>
+    </array>
+    <key>Iowa</key>
+    <array>
+        <string>Des Moines</string>
+        <string>Des Moines</string>
+        <string>December 28, 1846</string>
+        <string>3,090,416</string>
+        <string>56,273 (145,746)</string>
+        <string>55,857 (144,669)</string>
+        <string>416 (1,077)</string>
+        <string>4</string>
+    </array>
+    <key>Kansas</key>
+    <array>
+        <string>Topeka</string>
+        <string>Wichita</string>
+        <string>January 29, 1861</string>
+        <string>2,893,957</string>
+        <string>82,278 (213,099)</string>
+        <string>81,759 (211,755)</string>
+        <string>520 (1,347)</string>
+        <string>4</string>
+    </array>
+    <key>Kentucky</key>
+    <array>
+        <string>Frankfort</string>
+        <string>Louisville</string>
+        <string>June 1, 1792</string>
+        <string>4,395,295</string>
+        <string>40,408 (104,656)</string>
+        <string>39,486 (102,268)</string>
+        <string>921 (2,385)</string>
+        <string>6</string>
+    </array>
+    <key>Louisiana</key>
+    <array>
+        <string>Baton Rouge</string>
+        <string>New Orleans</string>
+        <string>April 30, 1812</string>
+        <string>4,625,470</string>
+        <string>52,378 (135,658)</string>
+        <string>43,204 (111,898)</string>
+        <string>9,174 (23,761)</string>
+        <string>6</string>
+    </array>
+    <key>Maine</key>
+    <array>
+        <string>Augusta</string>
+        <string>Portland</string>
+        <string>March 15, 1820</string>
+        <string>1,328,302</string>
+        <string>35,380 (91,634)</string>
+        <string>30,843 (79,883)</string>
+        <string>4,537 (11,751)</string>
+        <string>2</string>
+    </array>
+    <key>Maryland</key>
+    <array>
+        <string>Annapolis</string>
+        <string>Baltimore</string>
+        <string>April 28, 1788</string>
+        <string>5,928,814</string>
+        <string>12,406 (32,131)</string>
+        <string>9,707 (25,141)</string>
+        <string>2,699 (6,990)</string>
+        <string>8</string>
+    </array>
+    <key>Massachusetts</key>
+    <array>
+        <string>Boston</string>
+        <string>Boston</string>
+        <string>February 6, 1788</string>
+        <string>6,692,824</string>
+        <string>10,554 (27,335)</string>
+        <string>7,800 (20,202)</string>
+        <string>2,754 (7,133)</string>
+        <string>9</string>
+    </array>
+    <key>Michigan</key>
+    <array>
+        <string>Lansing</string>
+        <string>Detroit</string>
+        <string>January 26, 1837</string>
+        <string>9,895,622</string>
+        <string>96,714 (250,488)</string>
+        <string>56,539 (146,435)</string>
+        <string>40,175 (104,053)</string>
+        <string>14</string>
+    </array>
+    <key>Minnesota</key>
+    <array>
+        <string>St. Paul</string>
+        <string>Minneapolis</string>
+        <string>May 11, 1858</string>
+        <string>5,420,380</string>
+        <string>86,936 (225,163)</string>
+        <string>79,627 (206,233)</string>
+        <string>7,309 (18,930)</string>
+        <string>8</string>
+    </array>
+    <key>Mississippi</key>
+    <array>
+        <string>Jackson</string>
+        <string>Jackson</string>
+        <string>December 10, 1817</string>
+        <string>2,991,207</string>
+        <string>48,432 (125,438)</string>
+        <string>46,923 (121,530)</string>
+        <string>1,509 (3,908)</string>
+        <string>4</string>
+    </array>
+    <key>Missouri</key>
+    <array>
+        <string>Jefferson City</string>
+        <string>Kansas City</string>
+        <string>August 10, 1821</string>
+        <string>6,021,988</string>
+        <string>69,707 (180,540)</string>
+        <string>68,742 (178,041)</string>
+        <string>965 (2,499)</string>
+        <string>8</string>
+    </array>
+    <key>Montana</key>
+    <array>
+        <string>Helena</string>
+        <string>Billings</string>
+        <string>November 8, 1889</string>
+        <string>1,015,165</string>
+        <string>147,040 (380,832)</string>
+        <string>145,546 (376,962)</string>
+        <string>1,494 (3,869)</string>
+        <string>1</string>
+    </array>
+    <key>Nebraska</key>
+    <array>
+        <string>Lincoln</string>
+        <string>Omaha</string>
+        <string>March 1, 1867</string>
+        <string>1,868,516</string>
+        <string>77,348 (200,330)</string>
+        <string>76,824 (198,973)</string>
+        <string>524 (1,357)</string>
+        <string>3</string>
+    </array>
+    <key>Nevada</key>
+    <array>
+        <string>Carson City</string>
+        <string>Las Vegas</string>
+        <string>October 31, 1864</string>
+        <string>2,790,136</string>
+        <string>110,572 (286,380)</string>
+        <string>109,781 (284,331)</string>
+        <string>791 (2,049)</string>
+        <string>4</string>
+    </array>
+    <key>New Hampshire</key>
+    <array>
+        <string>Concord</string>
+        <string>Manchester</string>
+        <string>June 21, 1788</string>
+        <string>1,323,459</string>
+        <string>9,349 (24,214)</string>
+        <string>8,953 (23,188)</string>
+        <string>397 (1,028)</string>
+        <string>2</string>
+    </array>
+    <key>New Jersey</key>
+    <array>
+        <string>Trenton</string>
+        <string>Newark</string>
+        <string>December 18, 1787</string>
+        <string>8,899,339</string>
+        <string>8,723 (22,592)</string>
+        <string>7,354 (19,047)</string>
+        <string>1,368 (3,543)</string>
+        <string>12</string>
+    </array>
+    <key>New Mexico</key>
+    <array>
+        <string>Santa Fe</string>
+        <string>Albuquerque</string>
+        <string>January 6, 1912</string>
+        <string>2,085,287</string>
+        <string>121,590 (314,917)</string>
+        <string>121,298 (314,160)</string>
+        <string>292 (756)</string>
+        <string>3</string>
+    </array>
+    <key>New York</key>
+    <array>
+        <string>Albany</string>
+        <string>New York</string>
+        <string>July 26, 1788</string>
+        <string>19,651,127</string>
+        <string>54,555 (141,297)</string>
+        <string>47,126 (122,056)</string>
+        <string>7,429 (19,241)</string>
+        <string>27</string>
+    </array>
+    <key>North Carolina</key>
+    <array>
+        <string>Raleigh</string>
+        <string>Charlotte</string>
+        <string>November 21, 1789</string>
+        <string>9,848,060</string>
+        <string>53,819 (139,391)</string>
+        <string>48,618 (125,920)</string>
+        <string>5,201 (13,471)</string>
+        <string>13</string>
+    </array>
+    <key>North Dakota</key>
+    <array>
+        <string>Bismarck</string>
+        <string>Fargo</string>
+        <string>November 2, 1889</string>
+        <string>723,393</string>
+        <string>70,698 (183,107)</string>
+        <string>69,001 (178,712)</string>
+        <string>1,698 (4,398)</string>
+        <string>1</string>
+    </array>
+    <key>Ohio</key>
+    <array>
+        <string>Columbus</string>
+        <string>Columbus</string>
+        <string>March 1, 1803</string>
+        <string>11,570,808</string>
+        <string>44,826 (116,099)</string>
+        <string>40,861 (105,830)</string>
+        <string>3,965 (10,269)</string>
+        <string>16</string>
+    </array>
+    <key>Oklahoma</key>
+    <array>
+        <string>Oklahoma City</string>
+        <string>Oklahoma City</string>
+        <string>November 16, 1907</string>
+        <string>3,850,568</string>
+        <string>69,899 (181,038)</string>
+        <string>68,595 (177,660)</string>
+        <string>1,304 (3,377)</string>
+        <string>5</string>
+    </array>
+    <key>Oregon</key>
+    <array>
+        <string>Salem</string>
+        <string>Portland</string>
+        <string>February 14, 1859</string>
+        <string>3,930,065</string>
+        <string>98,379 (254,800)</string>
+        <string>95,988 (248,608)</string>
+        <string>2,391 (6,193)</string>
+        <string>5</string>
+    </array>
+    <key>Pennsylvania</key>
+    <array>
+        <string>Harrisburg</string>
+        <string>Philadelphia</string>
+        <string>December 12, 1787</string>
+        <string>12,773,801</string>
+        <string>46,054 (119,279)</string>
+        <string>44,743 (115,884)</string>
+        <string>1,312 (3,398)</string>
+        <string>18</string>
+    </array>
+    <key>Rhode Island</key>
+    <array>
+        <string>Providence</string>
+        <string>Providence</string>
+        <string>May 29, 1790</string>
+        <string>1,051,511</string>
+        <string>1,545 (4,002)</string>
+        <string>1,034 (2,678)</string>
+        <string>511 (1,320)</string>
+        <string>2</string>
+    </array>
+    <key>South Carolina</key>
+    <array>
+        <string>Columbia</string>
+        <string>Columbia</string>
+        <string>May 23, 1788</string>
+        <string>4,774,839</string>
+        <string>32,020 (82,931)</string>
+        <string>30,061 (77,858)</string>
+        <string>1,960 (5,076)</string>
+        <string>7</string>
+    </array>
+    <key>South Dakota</key>
+    <array>
+        <string>Pierre</string>
+        <string>Sioux Falls</string>
+        <string>November 2, 1889</string>
+        <string>844,877</string>
+        <string>77,116 (199,730)</string>
+        <string>75,811 (196,350)</string>
+        <string>1,305 (3,380)</string>
+        <string>1</string>
+    </array>
+    <key>Tennessee</key>
+    <array>
+        <string>Nashville</string>
+        <string>Memphis</string>
+        <string>June 1, 1796</string>
+        <string>6,495,978</string>
+        <string>42,144 (109,152)</string>
+        <string>41,235 (106,798)</string>
+        <string>909 (2,354)</string>
+        <string>9</string>
+    </array>
+    <key>Texas</key>
+    <array>
+        <string>Austin</string>
+        <string>Houston</string>
+        <string>December 29, 1845</string>
+        <string>26,448,193</string>
+        <string>268,596 (695,660)</string>
+        <string>261,232 (676,588)</string>
+        <string>7,365 (19,075)</string>
+        <string>36</string>
+    </array>
+    <key>Utah</key>
+    <array>
+        <string>Salt Lake City</string>
+        <string>Salt Lake City</string>
+        <string>January 4, 1896</string>
+        <string>2,900,872</string>
+        <string>84,897 (219,882)</string>
+        <string>82,170 (212,819)</string>
+        <string>2,727 (7,063)</string>
+        <string>4</string>
+    </array>
+    <key>Vermont</key>
+    <array>
+        <string>Montpelier</string>
+        <string>Burlington</string>
+        <string>March 4, 1791</string>
+        <string>626,630</string>
+        <string>9,616 (24,905)</string>
+        <string>9,217 (23,872)</string>
+        <string>400 (1,036)</string>
+        <string>1</string>
+    </array>
+    <key>Virginia</key>
+    <array>
+        <string>Richmond</string>
+        <string>Virginia Beach</string>
+        <string>June 25, 1788</string>
+        <string>8,260,405</string>
+        <string>42,775 (110,787)</string>
+        <string>39,490 (102,279)</string>
+        <string>3,285 (8,508)</string>
+        <string>11</string>
+    </array>
+    <key>Washington</key>
+    <array>
+        <string>Olympia</string>
+        <string>Seattle</string>
+        <string>November 11, 1889</string>
+        <string>6,971,406</string>
+        <string>71,298 (184,661)</string>
+        <string>66,456 (172,120)</string>
+        <string>4,842 (12,541)</string>
+        <string>10</string>
+    </array>
+    <key>West Virginia</key>
+    <array>
+        <string>Charleston</string>
+        <string>Charleston</string>
+        <string>June 20, 1863</string>
+        <string>1,854,304</string>
+        <string>24,230 (62,755)</string>
+        <string>24,038 (62,258)</string>
+        <string>192 (497)</string>
+        <string>3</string>
+    </array>
+    <key>Wisconsin</key>
+    <array>
+        <string>Madison</string>
+        <string>Milwaukee</string>
+        <string>May 29, 1848</string>
+        <string>5,742,713</string>
+        <string>65,496 (169,634)</string>
+        <string>54,158 (140,269)</string>
+        <string>11,339 (29,368)</string>
+        <string>8</string>
+    </array>
+    <key>Wyoming</key>
+    <array>
+        <string>Cheyenne</string>
+        <string>Cheyenne</string>
+        <string>July 10, 1890</string>
+        <string>582,658</string>
+        <string>97,813 (253,335)</string>
+        <string>97,093 (251,470)</string>
+        <string>720 (1,865)</string>
+        <string>1</string>
+    </array>
+</dict>
+</plist>
