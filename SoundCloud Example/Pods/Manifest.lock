@@ -1,0 +1,32 @@
+PODS:
+  - Bolts (1.1.1)
+  - CocoaSoundCloudAPI (1.0.2):
+    - NXOAuth2Client (= 1.2.2)
+  - CocoaSoundCloudUI (1.0.7):
+    - CocoaSoundCloudAPI (~> 1.0.1)
+    - JSONKit
+    - OHAttributedLabel
+  - Facebook-iOS-SDK (3.16.2):
+    - Bolts
+  - JSONKit (1.5pre)
+  - NXOAuth2Client (1.2.2)
+  - OHAttributedLabel (3.5.4)
+  - TheAmazingAudioEngine (1.4.2)
+
+DEPENDENCIES:
+  - CocoaSoundCloudAPI (= 1.0.2)
+  - CocoaSoundCloudUI (= 1.0.7)
+  - Facebook-iOS-SDK (~> 3.9)
+  - TheAmazingAudioEngine
+
+SPEC CHECKSUMS:
+  Bolts: 0ca796081c3e7c139bd86d6903c27f1b83036a5d
+  CocoaSoundCloudAPI: 4e762deae813dbd34311780f19d7130d0c795b58
+  CocoaSoundCloudUI: 5254cbf7f4de4748d1672d845d03cb33d952ed3a
+  Facebook-iOS-SDK: 34eef640c2cc4c8618ba0f574ad2b290e07f1b4e
+  JSONKit: efef3bbd3372ff33f96b9c6f34cf4fe18e74ab69
+  NXOAuth2Client: d0d18286b0d47da2b066bc3ab4e95157b2890675
+  OHAttributedLabel: fcf1d1245b4c8d2df94da91369b1474901d7fb14
+  TheAmazingAudioEngine: d5a503ad7455329eb4877cfb57acd32498ef12c9
+
+COCOAPODS: 0.33.1
